@@ -1,0 +1,7 @@
+<templateSet group="other">
+  <template name="main" value="public static void main(String[] args) &#10;{&#10;&#10;}" description="Macht eine main Methode" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
