@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="46236417-184d-4d5a-a31b-8b17da182dce" name="Lakinator">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="AUTH_TYPE" value="TOKEN" />
   </component>
