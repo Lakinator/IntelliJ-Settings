@@ -18,6 +18,14 @@
           <option name="url" value="https://github.com/Lakinator/VS-Uebungen.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.oth-regensburg.de/pul37820/se-project-2023.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.oth-regensburg.de" />
+          <option name="userName" value="scl37740" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Schalk\IdeaProjects" />
